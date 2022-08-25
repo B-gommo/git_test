@@ -1,1 +1,3 @@
 Just testing git commands.
+
+Added vscode as default editor to test it with commit.
